@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcomnrq&label=Profile%20views&color=0e75b6&style=flat" alt="marcomnrq" /> </p>
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **GraphQL** & **Web 3**
 
 - 🤝 I’m looking to collaborate on **Open Source projects**
 
