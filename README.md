@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/marco-antonio-manrique-acha-79b69a1a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marco-antonio-manrique-acha-79b69a1a9" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marco-manrique-acha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marco-antonio-manrique-acha-79b69a1a9" height="30" width="40" /></a>
 <a href="https://instagram.com/marcomnrq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcomnrq" height="30" width="40" /></a>
 </p>
 
