@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working as a Full-Stack Developer<br>🤝 I’m mainly programming within the Node.js Ecosystem<br>🌱 I’m currently learning Blockchain & Solidity <br>☕ I enjoy freshly-ground specialty coffee 
+🔭 I’m currently working as a Software Engineer for Ravn<br>
+🤝 I’m mainly programming within the Node.js Ecosystem<br>
+🌱 I’m currently learning Blockchain & Solidity<br>
+☕ I enjoy freshly-ground specialty coffee 
 
 
 ## 🌐 Socials:
